@@ -8,3 +8,5 @@ unicorn
 yellow
 fairies
 master
+avengers
+aquaman
