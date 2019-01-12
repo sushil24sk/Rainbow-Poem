@@ -6,3 +6,8 @@ kisku
 green
 unicorn
 yellow
+blue 
+hai 
+pani
+pani
+
